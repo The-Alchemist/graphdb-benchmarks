@@ -63,7 +63,7 @@ ok  	_/Users/ankuryadav/dev/benchmark/graphdb-benchmark/dgraph	879.913s
 </pre>
 
 ### Results of Queries benchmark.
-####(Dgraph queries were performed in GraphQL+- and Cayley were performed in gremlin).
+#### (Dgraph queries were performed in GraphQL+- and Cayley were performed in gremlin).
 #### Query to find all movies and their genre which are directed by director "Steven Spielberg".
 1. **Querying in cayley graph with bolt backend.**
 <pre>
@@ -89,7 +89,7 @@ ok  	_/Users/ankuryadav/dev/benchmark/graphdb-benchmark/dgraph	2.067s
 </pre>
 
 ### Results of Queries benchmark.
-####(Dgraph queries were performed in GraphQL+- and Cayley were performed in MQL).
+#### (Dgraph queries were performed in GraphQL+- and Cayley were performed in MQL).
 #### Query to find all movies and their genre which are directed by director "Steven Spielberg".
 1. **Querying in cayley graph with bolt backend.**
 <pre>
